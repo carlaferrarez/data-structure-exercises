@@ -1,7 +1,6 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
         size_nums = len(nums)
-        i = 0
         j = - n
         k = 0
         array = [0] * (size_nums)
