@@ -4,6 +4,5 @@ array=[10, 20, 30, -10, -20, -30, 10]
 sum = 0
 for item in array:
     sum = item + sum
-    i = i + 1
 
 print(sum)
